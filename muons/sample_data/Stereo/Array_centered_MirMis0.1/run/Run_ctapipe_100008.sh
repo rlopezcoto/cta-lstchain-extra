@@ -1,0 +1,2 @@
+rm -rf /home/rlopez/data_rlopez/cta/LST/Muons/ctapipe/Array_centered_MirMis0.1/files/Run100008_MirMis0.1.fits
+python /home/rlopez/data_rlopez/cta/LST/Muons/ctapipe/Scripts/muon_reconstruction.py --infile=/home/rlopez/data_rlopez/cta/LST/Muons/simtelarray/Array_centered_MirMis0.1/files/Run100008.simtel.gz --outfile=/home/rlopez/data_rlopez/cta/LST/Muons/ctapipe/Array_centered_MirMis0.1/files/Run100008.fits
